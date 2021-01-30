@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Jan 23 11:23:31 2021
-
+W oparciu o oficjalne instrukcje z TensorFlow https://www.tensorflow.org/swift/tutorials/model_training_walkthrough
 @author: Jerzy Rzesniowiecki & Szymon Maj
 """
 #Ustawienie importow
